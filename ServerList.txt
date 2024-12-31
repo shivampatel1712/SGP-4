@@ -1,0 +1,6 @@
+Red Hat Enterprise Linux 9.5
+
+DHCP Server
+DNS Server
+FTP Server
+File server
