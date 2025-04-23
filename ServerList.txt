@@ -4,3 +4,12 @@ DHCP Server
 DNS Server
 FTP Server
 File server
+Firewall Server
+Monitoring Server
+Samba Server
+Mail Server
+Time Server
+Syslog Server
+
+
+Google site link: https://sites.google.com/view/configcraft?usp=sharing
